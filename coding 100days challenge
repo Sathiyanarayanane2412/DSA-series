@@ -1,1 +1,33 @@
+Day-1:
+topics:Arrays
+list of important questions related to arrays in the context of data structures and algorithms (DSA):
 
+Reverse an Array: Write a function to reverse the elements of an array in-place.
+
+Rotate Array: Rotate an array to the right by k steps.
+
+Maximum Subarray Sum: Find the contiguous subarray with the largest sum.
+
+Array Partitioning: Partition an array into two parts such that the elements in one part are less than or equal to a given value, and the elements in the other part are greater than the given value.
+
+Merge Sorted Arrays: Merge two sorted arrays into a single sorted array.
+
+Find Missing Number: Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
+
+Find Duplicate Number: Given an array containing n + 1 integers where each integer is between 1 and n (inclusive), find the duplicate number.
+
+Product of Array Except Self: Given an array nums of n integers, return an array output such that output[i] is equal to the product of all the elements of nums except nums[i].
+
+Two Sum: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+Container With Most Water: Given n non-negative integers a1, a2, ..., an, where each represents a point at coordinate (i, ai), n vertical lines are drawn such that the two endpoints of the line i is at (i, ai) and (i, 0). Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
+
+Move Zeroes: Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+Stock Buy Sell to Maximize Profit: Given an array of stock prices on each day, find the maximum profit that can be earned by buying and selling stocks.
+
+Pascal's Triangle: Generate Pascal's triangle up to n rows.
+
+Majority Element: Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.
+
+Spiral Matrix: Given an m x n matrix, return all elements of the matrix in spiral order.
